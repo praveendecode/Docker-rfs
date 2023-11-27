@@ -1,4 +1,4 @@
-# Project TItle : Docker Image For Retail Revenue Forecasting
+# Project Title : Docker Image For Retail Revenue Forecasting
 
 ![image](https://github.com/praveendecode/Docker-rfs/assets/95226524/dcf24d6b-1dfb-4be0-b17f-a15575ecedc7)
 
